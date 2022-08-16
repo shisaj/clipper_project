@@ -9,7 +9,7 @@ class MyHomePage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('curve new'),
+        title: Text('curve new commit'),
       ),
       body: Column(
         crossAxisAlignment: CrossAxisAlignment.start,
